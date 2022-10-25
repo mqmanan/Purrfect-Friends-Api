@@ -1,0 +1,345 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullName": "Sirius Black",
+        "email": "kooldawg@hp.com",
+        "adoptedId": 0,
+        "isStaff": false
+      },
+      {
+        "id": 2,
+        "fullName": "Draco Malfoy",
+        "email": "badboygonegood@hp.com",
+        "adoptedId": 0,
+        "isStaff": false
+      },
+      {
+        "id": 3,
+        "fullName": "Rubeus Hagrid",
+        "email": "youreawizardharry@hp.com",
+        "adoptedId": 0,
+        "isStaff": true
+      },
+      {
+        "id": 4,
+        "fullName": "Neville Longbottom",
+        "email": "theboywhogrowssomeballs@hp.com",
+        "adoptedId": 0,
+        "isStaff": true
+      },
+      {
+        "id": 5,
+        "fullName": "Luna Lovegood",
+        "email": "whimsicalquibbler@hp.com",
+        "adoptedId": 0,
+        "isStaff": true
+      }
+    ],
+    "fosterParents": [
+      {
+        "id": 1,
+        "userId": 3,
+        "startDate": "10-01-2020"
+      },
+      {
+        "id": 2,
+        "userId": 4,
+        "startDate": "11-01-2021"
+      },
+      {
+        "id": 3,
+        "userId": 5,
+        "startDate": "12-01-2021"
+      }
+    ],
+    "fosters": [
+      {
+        "id": 1,
+        "name": "Toothless",
+        "imageUrl": "https://www.goodmews.org/wp-content/uploads/blair-oct22-thumbnail-1.jpg",
+        "ageId": 1,
+        "furPatternId": 2,
+        "hogwartHouse": 2,
+        "dob": "July 30, 2022",
+        "description": "Toothless is an instant purr machine and very affectionate. He likes to cuddle and while doing so you can admire his beautiful face! It's not required, but if looking for 2 kittens, Blair would like to be adopted with Light Fury or Meatlug!",
+        "fvrcpVaccine1": "Sept. 6, 2022",
+        "fvrcpVaccine2": "Oct. 3, 2022",
+        "fvrcpVaccine3": "Nov 7, 2022",
+        "felvVaccine": "Oct. 3, 2022",
+        "rabies": "Nov. 7, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 3
+      },
+      {
+        "id": 2,
+        "name": "Light Fury",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/cacus-jack-sept22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 1,
+        "hogwartHouse": 1,
+        "dob": "July 30, 2022",
+        "description": "When Light Fury first arrived to her foster's home, she was very shy and hissy. Once she felt comfortable, she allowed her foster parent to shower her with love. She loves to explore her foster parent's home and has overcome her fear of humans and will gladly sit in a human's lap and purr. She gets along with the other kittens in the home but loves to be independent.",
+        "fvrcpVaccine1": "Sept. 6, 2022",
+        "fvrcpVaccine2": "Oct. 3, 2022",
+        "fvrcpVaccine3": "Nov 7, 2022",
+        "felvVaccine": "Oct. 3, 2022",
+        "rabies": "Nov. 7, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 3
+      },
+      {
+        "id": 3,
+        "name": "Meatlug",
+        "imageUrl": "http://goodmews.org/wp-content/uploads/miriam-jan2019-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 3,
+        "hogwartHouse": 1,
+        "dob": "July 30, 2022",
+        "description": "Meatlug is a shy but an affectionate kitten. She is curious but still seems a little reluctant to join in the general fray of her group. Luckily, Meatlug is still young and impressionable so there is much optimism that her personality will change over time.",
+        "fvrcpVaccine1": "Sept. 6, 2022",
+        "fvrcpVaccine2": "Oct. 3, 2022",
+        "fvrcpVaccine3": "Nov 7, 2022",
+        "felvVaccine": "Oct. 3, 2022",
+        "rabies": "Nov. 7, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 3
+      },
+      {
+        "id": 4,
+        "name": "Stormfly",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/andre-nov2021-thumbnail.jpg",
+        "ageId": 2,
+        "furPatternId": 1,
+        "hogwartHouse": 4,
+        "dob": "Dec. 1, 2020",
+        "description": "Stormfly is a social butterfly with the humans and really likes sitting in laps. He loves to interact with visitors and is engaged with his surroundings. Andre likes to give and receive love so will really make a wonderful companion! Stormfly also gets along with other cats as well.",
+        "fvrcpVaccine1": "Jan. 8, 2021",
+        "fvrcpVaccine2": "Feb. 9, 2021",
+        "fvrcpVaccine3": "March 5, 2021",
+        "felvVaccine": "Oct. 7, 2022",
+        "rabies": "Oct. 7, 2022",
+        "spayedNeutered": "Yes!",
+        "fosterParentId": 3
+      },
+      {
+        "id": 5,
+        "name": "Hookfang",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/ambrosius-nov2020-thumbnail-1.jpg",
+        "ageId": 2,
+        "furPatternId": 1,
+        "hogwartHouse": 4,
+        "dob": "Sept. 2, 2021",
+        "description": "Hookfang really loves Temptations treats so that is a great way to win him over. He also likes to play with wand toys and anything that jingles or he can chase. Hookfang likes being around other cats and will play fight all day long.",
+        "fvrcpVaccine1": "Oct. 3, 2021",
+        "fvrcpVaccine2": "Nov. 9, 2021",
+        "fvrcpVaccine3": "Dec. 8, 2021",
+        "felvVaccine": "Jan. 13, 2022",
+        "rabies": "Jan. 13, 2022",
+        "spayedNeutered": "Yes!",
+        "fosterParentId": 3
+      },
+
+      {
+        "id": 6,
+        "name": "Leonardo",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/gabriela-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 3,
+        "hogwartHouse": 4,
+        "dob": "Aug. 11, 2022",
+        "description": "Leonardo is very energetic and loves to chase wand toys. He also loves to climb and you can usually find him at the highest point of any cat tree! Leonardo enjoys being petted all over and will seek you out for affection.",
+        "fvrcpVaccine1": "Sept. 15, 2022",
+        "fvrcpVaccine2": "Nov. 9, 2021",
+        "fvrcpVaccine3": "Dec. 8, 2021",
+        "felvVaccine": "Jan. 13, 2022",
+        "rabies": "Jan. 13, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 4
+      }, 
+      {
+        "id": 7,
+        "name": "Donatello",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/amos-aug22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 2,
+        "hogwartHouse": 3,
+        "dob": "Aug. 11, 2022",
+        "description": "Donatello is very active and loves to run and jump. He is also good at puzzle type toys that require some kitty smarts to figure out. He really likes having his ears scratched and he loves snuggling with humans",
+        "fvrcpVaccine1": "Sept. 15, 2022",
+        "fvrcpVaccine2": "Nov. 9, 2021",
+        "fvrcpVaccine3": "Dec. 8, 2021",
+        "felvVaccine": "Jan. 13, 2022",
+        "rabies": "Jan. 13, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 4
+      }, 
+      {
+        "id": 8,
+        "name": "Raphael",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/tobias-oct22-catalog-feature.jpg",
+        "ageId": 1,
+        "furPatternId": 2,
+        "hogwartHouse": 2,
+        "dob": "Sept 28, 2021",
+        "description": "Raphael is a little hissy meeting new kittens but fun eventually takes over and he ends up playing with them. He enjoys back scratches and belly rubs so much that he will go looking for attention to get them.",
+        "fvrcpVaccine1": "Sept. 15, 2022",
+        "fvrcpVaccine2": "Nov. 9, 2021",
+        "fvrcpVaccine3": "Dec. 8, 2021",
+        "felvVaccine": "Jan. 13, 2022",
+        "rabies": "Jan. 13, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 4
+      }, 
+      {
+        "id": 9,
+        "name": "Michelangelo",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/steve-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 4,
+        "hogwartHouse": 4,
+        "dob": "Sept 28, 2021",
+        "description": "Donatello is a little bit shy but enjoys being petted once he checks you out. He likes the company of other kittens and can be a bit chatty if you leave him alone without a friend. He will do great in a multi-pet home!",
+        "fvrcpVaccine1": "Sept. 15, 2022",
+        "fvrcpVaccine2": "Nov. 9, 2021",
+        "fvrcpVaccine3": "Dec. 8, 2021",
+        "felvVaccine": "Jan. 13, 2022",
+        "rabies": "Jan. 13, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
+        "fosterParentId": 4
+      }, 
+      {
+        "id": 10,
+        "name": "Shredder",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/chase-march2021-thumbnail.jpg",
+        "ageId": 2,
+        "furPatternId": 3,
+        "hogwartHouse": 4,
+        "dob": "Feb 4, 2022",
+        "description": "Shredder is an independent cat. She doesn't seem to mind other cats, but also hasn't actively sought out a cat friend yet. She likes to chill in a cozy bed observing the scene and is receptive to slow petting.",
+        "fvrcpVaccine1": "March 23, 2022",
+        "fvrcpVaccine2": "April 25, 2022",
+        "fvrcpVaccine3": "May 26, 2022",
+        "felvVaccine": "July 10, 2022",
+        "rabies": "July 10, 2022",
+        "spayedNeutered": "Yes!",
+        "fosterParentId": 4
+      },
+
+      {
+        "id": 11,
+        "name": "Moon",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/mayberrry-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 5,
+        "hogwartHouse": 2,
+        "fosterParentId": 5
+      }, 
+      {
+        "id": 12,
+        "name": "Venus",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/catalina-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 1,
+        "hogwartHouse": 2,
+        "fosterParentId": 5
+      }, 
+      {
+        "id": 13,
+        "name": "Mars",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/rowdy-roddy-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 3,
+        "hogwartHouse": 4,
+        "fosterParentId": 5
+      }, 
+      {
+        "id": 14,
+        "name": "Mercury",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/bobby-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 3,
+        "hogwartHouse": 3,
+        "fosterParentId": 5
+      }, 
+      {
+        "id": 15,
+        "name": "Jupiter",
+        "imageUrl": "http://www.goodmews.org/wp-content/uploads/mort-oct22-thumbnail.jpg",
+        "ageId": 1,
+        "furPatternId": 3,
+        "hogwartHouse": 1,
+        "fosterParentId": 5
+      }
+    ],
+    "adoptedFosters": [
+        {
+            "id": 1,
+            "name": "Wednesday",
+            "imageUrl": "http://www.goodmews.org/wp-content/uploads/gabriela-oct22-thumbnail.jpg",
+            "ageId": 1,
+            "furPatternId": 4,
+            "hogwartHouse": 1,
+            "fosterParentId": 1  
+        },
+        {
+            "id": 2,
+            "name": "Friday",
+            "imageUrl": "http://www.goodmews.org/wp-content/uploads/catalina-oct22-thumbnail.jpg",
+            "ageId": 1,
+            "furPatternId": 1,
+            "hogwartHouse": 4,
+            "fosterParentId": 1   
+        }
+    ],
+    "ageRanges": [
+        {
+            "id": 1,
+            "name": "Kitten: 4 weeks - 11 months"
+        },
+        {
+            "id": 2,
+            "name": "Young Adult: 1-2 years"
+        }
+    ],
+    "furPatterns": [
+        {
+            "id": 1,
+            "name": "Tabby"
+        },
+        {
+            "id": 2,
+            "name": "Solid"
+        },
+        {
+            "id": 3,
+            "name": "Bicolor"
+        },
+        {
+            "id": 4,
+            "name": "Tricolor"
+        },
+        {
+            "id": 5,
+            "name": "Colorpoint"
+        }
+    ],
+    "hogwartHouses": [
+        {
+            "id": 1,
+            "name": "Hufflepuss"
+        },
+        {
+            "id": 2,
+            "name": "Gryffinclaw"
+        },
+        {
+            "id": 3,
+            "name": "Ravenpaw"
+        },
+        {
+            "id": 4,
+            "name": "Snifferin"
+        }
+    ]
+  }
