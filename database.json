@@ -317,7 +317,7 @@
             "id": 1,
             "name": "Wednesday",
             "imageUrl": "http://www.goodmews.org/wp-content/uploads/gabriela-oct22-thumbnail.jpg",
-            "ageId": 1,
+            "description": "Wednesday is now living her best life with Sirius Black!",
             "hogwartHouse": 1,
             "fosterParentId": 1,
             "userId":  1
@@ -326,7 +326,7 @@
             "id": 2,
             "name": "Friday",
             "imageUrl": "http://www.goodmews.org/wp-content/uploads/catalina-oct22-thumbnail.jpg",
-            "ageId": 1,
+            "description": "Friday is now living his best life with Draco Malfoy!",
             "hogwartHouse": 4,
             "fosterParentId": 1,
             "userId": 2  
