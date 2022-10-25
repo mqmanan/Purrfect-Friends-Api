@@ -231,8 +231,16 @@
         "name": "Moon",
         "imageUrl": "http://www.goodmews.org/wp-content/uploads/mayberrry-oct22-thumbnail.jpg",
         "ageId": 1,
-        "furPatternId": 5,
+        "furPatternId": 3,
         "hogwartHouse": 2,
+        "dob": "Aug. 19, 2022",
+        "description": "Moon is by far the most “chill” kitten out of his litter. He is so easy going and sweet!! He is VERY comfortable around the 2 dogs that he gets to spend time with currently and loves to snuggle with his foster parent at bed time. This guy is purrfect and he is looking forward to finding his forever home!",
+        "fvrcpVaccine1": "Sept. 24, 2022",
+        "fvrcpVaccine2": "Oct. 25, 2022",
+        "fvrcpVaccine3": "Nov 30, 2022",
+        "felvVaccine": "Dec. 19, 2022",
+        "rabies": "Dec. 19, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
         "fosterParentId": 5
       }, 
       {
@@ -240,8 +248,16 @@
         "name": "Venus",
         "imageUrl": "http://www.goodmews.org/wp-content/uploads/catalina-oct22-thumbnail.jpg",
         "ageId": 1,
-        "furPatternId": 1,
+        "furPatternId": 3,
         "hogwartHouse": 2,
+        "dob": "Aug. 19, 2022",
+        "description": "Venus is curious about everything! She was the first in her litter to figure out how to do things. She doesn't play as much as her siblings but probably because there are five of them so she felt okay being independent. Venus also gets along with the 2 dogs she is currently living with.",
+        "fvrcpVaccine1": "Sept. 24, 2022",
+        "fvrcpVaccine2": "Oct. 25, 2022",
+        "fvrcpVaccine3": "Nov 30, 2022",
+        "felvVaccine": "Dec. 19, 2022",
+        "rabies": "Dec. 19, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
         "fosterParentId": 5
       }, 
       {
@@ -251,6 +267,14 @@
         "ageId": 1,
         "furPatternId": 3,
         "hogwartHouse": 4,
+        "dob": "Aug. 19, 2022",
+        "description": "Mars was shy at first when arriving to his foster home but once he warmed up, he came to sit near his foster parent. He doesn't like being picked up or held on his back but will otherwise enjoy belly scratching when just laying around. Mercury loves playing with a feather wand toy and enjoys cuddling with his siblings.",
+        "fvrcpVaccine1": "Sept. 24, 2022",
+        "fvrcpVaccine2": "Oct. 25, 2022",
+        "fvrcpVaccine3": "Nov 30, 2022",
+        "felvVaccine": "Dec. 19, 2022",
+        "rabies": "Dec. 19, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
         "fosterParentId": 5
       }, 
       {
@@ -260,6 +284,14 @@
         "ageId": 1,
         "furPatternId": 3,
         "hogwartHouse": 3,
+        "dob": "Aug. 19, 2022",
+        "description": "Mercury is the smallest in his litter so sometimes he acts a little insecure. He will occasionally growl if a new pet is near or if someone is trying to take his food. Mercury enjoys being petted but not being held. He loves to snuggle with his siblings on a cozy blanket. It will be best if he gets adopted with one of his siblings!",
+        "fvrcpVaccine1": "Sept. 24, 2022",
+        "fvrcpVaccine2": "Oct. 25, 2022",
+        "fvrcpVaccine3": "Nov 30, 2022",
+        "felvVaccine": "Dec. 19, 2022",
+        "rabies": "Dec. 19, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
         "fosterParentId": 5
       }, 
       {
@@ -269,6 +301,14 @@
         "ageId": 1,
         "furPatternId": 3,
         "hogwartHouse": 1,
+        "dob": "Aug. 19, 2022",
+        "description": "Jupiter is curious about everything! She was the first in her litter to figure out how to do things. She doesn't play as much as her siblings but probably because there are five of them so she felt okay being independent. Jupiter also gets along with the 2 dogs she is currently living with.",
+        "fvrcpVaccine1": "Sept. 24, 2022",
+        "fvrcpVaccine2": "Oct. 25, 2022",
+        "fvrcpVaccine3": "Nov 30, 2022",
+        "felvVaccine": "Dec. 19, 2022",
+        "rabies": "Dec. 19, 2022",
+        "spayedNeutered": "No, but we can help you schedule that appointment.",
         "fosterParentId": 5
       }
     ],
@@ -277,19 +317,19 @@
             "id": 1,
             "name": "Wednesday",
             "imageUrl": "http://www.goodmews.org/wp-content/uploads/gabriela-oct22-thumbnail.jpg",
-            "ageId": 1,
-            "furPatternId": 4,
+            "description": "Wednesday is now living her best life with Sirius Black!",
             "hogwartHouse": 1,
-            "fosterParentId": 1  
+            "fosterParentId": 1,
+            "userId":  1
         },
         {
             "id": 2,
             "name": "Friday",
             "imageUrl": "http://www.goodmews.org/wp-content/uploads/catalina-oct22-thumbnail.jpg",
-            "ageId": 1,
-            "furPatternId": 1,
+            "description": "Friday is now living his best life with Draco Malfoy!",
             "hogwartHouse": 4,
-            "fosterParentId": 1   
+            "fosterParentId": 1,
+            "userId": 2  
         }
     ],
     "ageRanges": [
