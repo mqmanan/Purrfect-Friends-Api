@@ -2,17 +2,17 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Sirius Black",
-      "email": "kooldawg@hp.com",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiqei2wSR7OixwfwS9o8iAAtm0tp72udfUWA&usqp=CAU",
+      "fullName": "Draco Malfoy",
+      "email": "badboyslytherin@hp.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpK9T8PFu3cwnQyxAgMK2JaBT3XVh6URrq-w&usqp=CAU",
       "adoptedId": 0,
       "isStaff": false
     },
     {
       "id": 2,
-      "fullName": "Draco Malfoy",
-      "email": "badboygonegood@hp.com",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY4qBpRKjvHE-INBScQwHyVIP-NwoeuV88A&usqp=CAU",
+      "fullName": "Mac Kazoo",
+      "email": "fostershome@imaginaryfriends.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrAFkKZk1t8GwLvbKrxTeAwjEeSktEdFKlA&usqp=CAU",
       "adoptedId": 0,
       "isStaff": false
     },
@@ -20,23 +20,23 @@
       "id": 3,
       "fullName": "Rubeus Hagrid",
       "email": "youreawizardharry@hp.com",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5k3glvZ7oGekKsBheI33-M5FqShuJV4PoEA&usqp=CAU",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadcUKyLNWzvVF4gaX3Qwq6SiAo3hQlx5tOA&usqp=CAU",
       "adoptedId": 0,
       "isStaff": true
     },
     {
       "id": 4,
-      "fullName": "Neville Longbottom",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmBtg8zJetDaTLeo2GJPNnyIyD4bPeHXOCw&usqp=CAU",
-      "email": "theboywhogrowsapair@hp.com",
+      "fullName": "Frankie Foster",
+      "imageUrl": "https://styles.redditmedia.com/t5_4nlufh/styles/profileIcon_jsmnghp0p5771.jpg?width=256&height=256&frame=1&crop=256:256,smart&s=b9773363a04e1e036bd4118137e7cbcece712342",
+      "email": "frankie@fostershome.com",
       "adoptedId": 0,
       "isStaff": true
     },
     {
       "id": 5,
-      "fullName": "Luna Lovegood",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6nXtACg1GzKs-9z7T7ZMJM1VKHni6vziLA&usqp=CAU",
-      "email": "whimsicalquibbler@hp.com",
+      "fullName": "Madame Foster",
+      "imageUrl": "https://resizing.flixster.com/uMlPXIR4t2Jw1db0NrKYoQSAW7k=/206x305/v2/https://flxt.tmsimg.com/assets/p3032601_e_v7_aa.jpg",
+      "email": "founder@fostershome.com",
       "adoptedId": 0,
       "isStaff": true
     }
@@ -45,17 +45,20 @@
     {
       "id": 1,
       "userId": 3,
-      "startDate": "10-01-2020"
+      "startDate": "2-01-2021",
+      "phoneNumber": "666-666-6666"
     },
     {
       "id": 2,
       "userId": 4,
-      "startDate": "11-01-2021"
+      "startDate": "2-01-2021",
+      "phoneNumber": "777-777-7777"
     },
     {
       "id": 3,
       "userId": 5,
-      "startDate": "12-01-2021"
+      "startDate": "1-01-2020",
+      "phoneNumber": "555-555-5555"
     }
   ],
   "fosters": [
@@ -70,10 +73,10 @@
       "description": "Toothless is an instant purr machine and very affectionate. He likes to cuddle and while doing so you can admire his beautiful face! It's not required, but if looking for 2 kittens, Toothless would like to be adopted with Light Fury!",
       "fvrcpVaccine1": "Sept. 6, 2022",
       "fvrcpVaccine2": "Oct. 3, 2022",
-      "fvrcpVaccine3": "Nov 7, 2022",
-      "felvVaccine": "Oct. 3, 2022",
+      "fvrcpVaccine3": "N/A",
+      "felvVaccine": "Oct. 5, 2022",
       "rabies": "Nov. 7, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 1
     },
     {
@@ -84,13 +87,13 @@
       "furPatternId": 1,
       "hogwartHouseId": 1,
       "dob": "July 30, 2022",
-      "description": "When Light Fury first arrived to her foster's home, she was very shy and hissy. Once she felt comfortable, she allowed her foster parent to shower her with love. She loves to explore her foster parent's home and has overcome her fear of humans and will gladly sit in a human's lap and purr. She gets along with the other kittens in the home but loves to be independent.",
+      "description": "When Light Fury first arrived to her foster's home, she was very shy and hissy. Now, she loves to explore her foster parent's home and has overcome her fear of humans. She gets along with the other kittens in the home but loves to be independent.",
       "fvrcpVaccine1": "Sept. 6, 2022",
       "fvrcpVaccine2": "Oct. 3, 2022",
       "fvrcpVaccine3": "Nov 7, 2022",
       "felvVaccine": "Oct. 3, 2022",
       "rabies": "Nov. 7, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 1
     },
     {
@@ -101,13 +104,13 @@
       "furPatternId": 3,
       "hogwartHouseId": 1,
       "dob": "July 30, 2022",
-      "description": "Meatlug is a shy but an affectionate kitten. She is curious but still seems a little reluctant to join in the general fray of her group. Luckily, Meatlug is still young and impressionable so there is much optimism that her personality will change over time.",
+      "description": "Meatlug is curious but still seems a little reluctant to join group activites. Luckily, Meatlug is still young and impressionable so there is much optimism that her personality will change over time.",
       "fvrcpVaccine1": "Sept. 6, 2022",
       "fvrcpVaccine2": "Oct. 3, 2022",
       "fvrcpVaccine3": "Nov 7, 2022",
       "felvVaccine": "Oct. 3, 2022",
-      "rabies": "Nov. 7, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "rabies": "Nov. 7, 2025",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 1
     },
     {
@@ -118,7 +121,7 @@
       "furPatternId": 1,
       "hogwartHouseId": 4,
       "dob": "Dec. 1, 2020",
-      "description": "Stormfly is a social butterfly with the humans and really likes sitting in laps. He loves to interact with visitors and is engaged with his surroundings. Andre likes to give and receive love so will really make a wonderful companion! Stormfly also gets along with other cats as well.",
+      "description": "Stormfly is a social butterfly with the humans and really likes sitting in laps. He loves to interact with visitors and is engaged with his surroundings. Stormfly likes to give and receive love so will really make a wonderful companion!",
       "fvrcpVaccine1": "Jan. 8, 2021",
       "fvrcpVaccine2": "Feb. 9, 2021",
       "fvrcpVaccine3": "March 5, 2021",
@@ -135,7 +138,7 @@
       "furPatternId": 1,
       "hogwartHouseId": 4,
       "dob": "Sept. 2, 2021",
-      "description": "Hookfang really loves Temptations treats so that is a great way to win him over. He also likes to play with wand toys and anything that jingles or he can chase. Hookfang likes being around other cats and will play fight all day long.",
+      "description": "Hookfang really loves Temptations treats so that is a great way to win him over. He also likes to play with wand toys and anything that jingles or he can chase.",
       "fvrcpVaccine1": "Oct. 3, 2021",
       "fvrcpVaccine2": "Nov. 9, 2021",
       "fvrcpVaccine3": "Dec. 8, 2021",
@@ -158,7 +161,7 @@
       "fvrcpVaccine3": "Dec. 8, 2021",
       "felvVaccine": "Jan. 13, 2022",
       "rabies": "Jan. 13, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 2
     },
     {
@@ -172,10 +175,10 @@
       "description": "Donatello is very active and loves to run and jump. He is also good at puzzle type toys that require some kitty smarts to figure out. He really likes having his ears scratched and he loves snuggling with humans",
       "fvrcpVaccine1": "Sept. 15, 2022",
       "fvrcpVaccine2": "Nov. 9, 2021",
-      "fvrcpVaccine3": "Dec. 8, 2021",
-      "felvVaccine": "Jan. 13, 2022",
-      "rabies": "Jan. 13, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "fvrcpVaccine3": "N/A",
+      "felvVaccine": "N/A",
+      "rabies": "N/A",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 2
     },
     {
@@ -187,12 +190,12 @@
       "hogwartHouseId": 2,
       "dob": "Sept 28, 2021",
       "description": "Raphael is a little hissy meeting new kittens but fun eventually takes over and he ends up playing with them. He enjoys back scratches and belly rubs so much that he will go looking for attention to get them.",
-      "fvrcpVaccine1": "Sept. 15, 2022",
+      "fvrcpVaccine1": "Sept. 15, 2021",
       "fvrcpVaccine2": "Nov. 9, 2021",
       "fvrcpVaccine3": "Dec. 8, 2021",
       "felvVaccine": "Jan. 13, 2022",
       "rabies": "Jan. 13, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 2
     },
     {
@@ -209,7 +212,7 @@
       "fvrcpVaccine3": "Dec. 8, 2021",
       "felvVaccine": "Jan. 13, 2022",
       "rabies": "Jan. 13, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 2
     },
     {
@@ -231,75 +234,75 @@
     },
     {
       "id": 11,
-      "name": "Moon",
+      "name": "(Sailor) Moon",
       "imageUrl": "http://www.goodmews.org/wp-content/uploads/mayberrry-oct22-thumbnail.jpg",
       "ageRangeId": 1,
       "furPatternId": 3,
       "hogwartHouseId": 2,
       "dob": "Aug. 19, 2022",
-      "description": "Moon is by far the most “chill” kitten out of his litter. He is so easy going and sweet!! He is VERY comfortable around the 2 dogs that he gets to spend time with currently and loves to snuggle with his foster parent at bed time. This guy is purrfect and he is looking forward to finding his forever home!",
+      "description": "Moon is by far the most “chill” kitten out of his litter. He is VERY comfortable around the 2 dogs that he gets to spend time with currently and loves to snuggle with his foster parent at bed time. Moon is looking forward to finding his forever home!",
       "fvrcpVaccine1": "Sept. 24, 2022",
       "fvrcpVaccine2": "Oct. 25, 2022",
-      "fvrcpVaccine3": "Nov 30, 2022",
-      "felvVaccine": "Dec. 19, 2022",
-      "rabies": "Dec. 19, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "fvrcpVaccine3": "N/A",
+      "felvVaccine": "N/A",
+      "rabies": "N/A",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 3
     },
     {
       "id": 12,
-      "name": "Venus",
+      "name": "(Sailor) Venus",
       "imageUrl": "http://www.goodmews.org/wp-content/uploads/catalina-oct22-thumbnail.jpg",
       "ageRangeId": 1,
       "furPatternId": 3,
       "hogwartHouseId": 2,
       "dob": "Aug. 19, 2022",
-      "description": "Venus is curious about everything! She was the first in her litter to figure out how to do things. She doesn't play as much as her siblings but probably because there are five of them so she felt okay being independent. Venus also gets along with the 2 dogs she is currently living with.",
+      "description": "Venus is curious about everything! She was the first in her litter to figure out how to do things. She doesn't play as much as her siblings & feels more comfortable being independent.",
       "fvrcpVaccine1": "Sept. 24, 2022",
       "fvrcpVaccine2": "Oct. 25, 2022",
       "fvrcpVaccine3": "Nov 30, 2022",
       "felvVaccine": "Dec. 19, 2022",
       "rabies": "Dec. 19, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 3
     },
     {
       "id": 13,
-      "name": "Mars",
+      "name": "(Sailor) Mars",
       "imageUrl": "http://www.goodmews.org/wp-content/uploads/rowdy-roddy-oct22-thumbnail.jpg",
       "ageRangeId": 1,
       "furPatternId": 3,
       "hogwartHouseId": 4,
       "dob": "Aug. 19, 2022",
-      "description": "Mars was shy at first when arriving to his foster home but once he warmed up, he came to sit near his foster parent. He doesn't like being picked up or held on his back but will otherwise enjoy belly scratching when just laying around. Mercury loves playing with a feather wand toy and enjoys cuddling with his siblings.",
+      "description": "Mars was shy when arriving to his foster home but now that he's comfortable he loves to explore his surroundings. He doesn't like being picked up or held on his back but will otherwise enjoy belly scratching when just laying around.",
       "fvrcpVaccine1": "Sept. 24, 2022",
       "fvrcpVaccine2": "Oct. 25, 2022",
       "fvrcpVaccine3": "Nov 30, 2022",
       "felvVaccine": "Dec. 19, 2022",
       "rabies": "Dec. 19, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 3
     },
     {
       "id": 14,
-      "name": "Mercury",
+      "name": "(Sailor) Mercury",
       "imageUrl": "http://www.goodmews.org/wp-content/uploads/bobby-oct22-thumbnail.jpg",
       "ageRangeId": 1,
       "furPatternId": 3,
       "hogwartHouseId": 3,
       "dob": "Aug. 19, 2022",
-      "description": "Mercury is the smallest in his litter so sometimes he acts a little insecure. He will occasionally growl if a new pet is near or if someone is trying to take his food. Mercury enjoys being petted but not being held. He loves to snuggle with his siblings on a cozy blanket. It will be best if he gets adopted with one of his siblings!",
+      "description": "Mercury is the smallest in his litter so sometimes he acts a little insecure. He enjoys being petted but not being held. He also loves to snuggle with his siblings on a cozy blanket.",
       "fvrcpVaccine1": "Sept. 24, 2022",
       "fvrcpVaccine2": "Oct. 25, 2022",
       "fvrcpVaccine3": "Nov 30, 2022",
       "felvVaccine": "Dec. 19, 2022",
       "rabies": "Dec. 19, 2022",
-      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "spayedNeutered": "No, but we can help schedule that appointment.",
       "fosterParentId": 3
     },
     {
       "id": 15,
-      "name": "Jupiter",
+      "name": "(Sailor) Jupiter",
       "imageUrl": "http://www.goodmews.org/wp-content/uploads/mrs-garrett-oct22-thumbnail.jpg",
       "ageRangeId": 1,
       "furPatternId": 3,
@@ -311,7 +314,7 @@
       "fvrcpVaccine3": "Nov. 30, 2022",
       "felvVaccine": "Dec. 19, 2022",
       "rabies": "Dec. 19, 2022",
-      "spayedNeutered": "No, but we can help you make that appointment.",
+      "spayedNeutered": "No, but we can help make that appointment.",
       "fosterParentId": 3
     }
   ],
@@ -335,25 +338,30 @@
   ],
   "messages": [
     {
-      "id": 1,
       "name": "Tom Nook",
       "email": "mayor@animalcrossing.com",
-      "subject": "Rehome",
-      "body": "Would Purrfect Friends be able to help rehome my villa-- I mean, pet cat?"
+      "subject": "Re-homing",
+      "body": "Would you be able to help me re-home my pet?",
+      "id": 1
     },
     {
-      "name": "Isable",
+      "name": "Isabele",
       "email": "secretary@animalcrossing.com",
-      "subject": "Jupiter",
-      "body": "I am interested in meeting Jupiter! ",
+      "subject": "Adopt",
+      "body": "I'm interested in adopting Jupiter!",
       "id": 2
     }
   ],
   "fosterParentMessages": [
     {
       "fosterParentId": 3,
+      "messageId": 2,
+      "id": 2
+    },
+    {
+      "fosterParentId": 3,
       "messageId": 1,
-      "id": 1
+      "id": 3
     }
   ],
   "ageRanges": [
@@ -363,7 +371,7 @@
     },
     {
       "id": 2,
-      "name": "Young Adult: 1-2 years"
+      "name": "Young Adult: 1 - 2 years"
     }
   ],
   "furPatterns": [
