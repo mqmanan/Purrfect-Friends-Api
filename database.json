@@ -46,19 +46,22 @@
       "id": 1,
       "userId": 3,
       "startDate": "2-01-2021",
-      "phoneNumber": "666-666-6666"
+      "phoneNumber": "666-666-6666",
+      "nickName": "Madame F"
     },
     {
       "id": 2,
       "userId": 4,
       "startDate": "2-01-2021",
-      "phoneNumber": "777-777-7777"
+      "phoneNumber": "777-777-7777",
+      "nickName": "Frankarino"
     },
     {
       "id": 3,
       "userId": 5,
       "startDate": "1-01-2020",
-      "phoneNumber": "555-555-5555"
+      "phoneNumber": "555-555-5555",
+      "nickName": "Hagrid"
     }
   ],
   "fosters": [
