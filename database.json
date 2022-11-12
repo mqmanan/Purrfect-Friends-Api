@@ -56,15 +56,7 @@
       "nickName": "Frankarino",
       "startDate": "2-01-2021",
       "phoneNumber": "777-777-7777",
-      "email": "frankie_purrfect@gmail.com",
-      "user": {
-        "id": 4,
-        "fullName": "Frankie Foster",
-        "imageUrl": "https://styles.redditmedia.com/t5_4nlufh/styles/profileIcon_jsmnghp0p5771.jpg?width=256&height=256&frame=1&crop=256:256,smart&s=b9773363a04e1e036bd4118137e7cbcece712342",
-        "email": "frankie_purrfect@gmail.com",
-        "adoptedId": 0,
-        "isStaff": true
-      }
+      "email": "frankie_purrfect@gmail.com"
     },
     {
       "id": 3,
@@ -72,15 +64,7 @@
       "nickName": "Hagrid",
       "startDate": "1-01-2021",
       "phoneNumber": "888-888-8888",
-      "email": "youreawizardharry@gmail.com",
-      "user": {
-        "id": 5,
-        "fullName": "Rubeus Hagrid",
-        "email": "youreawizardharry@gmail.com",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadcUKyLNWzvVF4gaX3Qwq6SiAo3hQlx5tOA&usqp=CAU",
-        "adoptedId": 0,
-        "isStaff": true
-      }
+      "email": "youreawizardharry@gmail.com"
     }
   ],
   "fosters": [
