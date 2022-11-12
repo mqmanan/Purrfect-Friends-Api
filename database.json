@@ -28,7 +28,7 @@
       "id": 4,
       "fullName": "Frankie Foster",
       "imageUrl": "https://styles.redditmedia.com/t5_4nlufh/styles/profileIcon_jsmnghp0p5771.jpg?width=256&height=256&frame=1&crop=256:256,smart&s=b9773363a04e1e036bd4118137e7cbcece712342",
-      "email": "frankie@fostershome.com",
+      "email": "frankie_purrfect@gmail.com",
       "adoptedId": 0,
       "isStaff": true
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "fullName": "Madame Foster",
       "imageUrl": "https://resizing.flixster.com/uMlPXIR4t2Jw1db0NrKYoQSAW7k=/206x305/v2/https://flxt.tmsimg.com/assets/p3032601_e_v7_aa.jpg",
-      "email": "founder@fostershome.com",
+      "email": "madame_purrfect@gmail.com",
       "adoptedId": 0,
       "isStaff": true
     }
@@ -47,13 +47,15 @@
       "userId": 3,
       "startDate": "2-01-2021",
       "phoneNumber": "666-666-6666",
-      "nickName": "Madame F"
+      "email": "youreawizardharry@hp.com",
+      "nickName": "Hagrid"
     },
     {
       "id": 2,
       "userId": 4,
       "startDate": "2-01-2021",
       "phoneNumber": "777-777-7777",
+      "email": "frankie_purrfect@gmail.com",
       "nickName": "Frankarino"
     },
     {
@@ -61,7 +63,8 @@
       "userId": 5,
       "startDate": "1-01-2020",
       "phoneNumber": "555-555-5555",
-      "nickName": "Hagrid"
+      "email": "madame_purrfect@gmail.com",
+      "nickName": "Madame F"
     }
   ],
   "fosters": [
