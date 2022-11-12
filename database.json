@@ -34,9 +34,17 @@
     },
     {
       "id": 5,
-      "fullName": "Madame Foster",
-      "imageUrl": "https://resizing.flixster.com/uMlPXIR4t2Jw1db0NrKYoQSAW7k=/206x305/v2/https://flxt.tmsimg.com/assets/p3032601_e_v7_aa.jpg",
-      "email": "founder@fostershome.com",
+      "fullName": "Rubeus Hagrid ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafQu5XADZwQR9neb0hVF5lUzYV4IctUvfFOyH2i48nbT9ZDyElXAEqu9Gn4SXApuqHl0&usqp=CAU",
+      "email": "youreawizardharry@hp.com",
+      "adoptedId": 0,
+      "isStaff": true
+    },
+    {
+      "id": 6,
+      "fullName": "Luna Lovegood",
+      "email": "luna_purrfect@gmail.com",
+      "imageUrl": "https://i.pinimg.com/474x/65/65/85/656585c55616d292237ec19c79e7d5bb.jpg",
       "adoptedId": 0,
       "isStaff": true
     }
@@ -45,6 +53,7 @@
     {
       "id": 1,
       "userId": 3,
+      "nickname": "Madame F",
       "startDate": "2-01-2021",
       "phoneNumber": "666-666-6666"
     },
@@ -58,8 +67,18 @@
     {
       "id": 3,
       "userId": 5,
-      "startDate": "1-01-2020",
-      "phoneNumber": "555-555-5555"
+      "nickName": "Hagrid",
+      "startDate": "1-01-2021",
+      "phoneNumber": "888-888-8888",
+      "email": "youreawizardharry@gmail.com"
+    },
+    {
+      "id": 4,
+      "userId": 6,
+      "nickName": "Loony",
+      "startDate": "11-01-2022",
+      "phoneNumber": "999-999-9999",
+      "email": "luna_purrfect@gmail.com"
     }
   ],
   "fosters": [
@@ -317,6 +336,23 @@
       "rabies": "N/A",
       "spayedNeutered": "No, but we can help make that appointment.",
       "fosterParentId": 1
+    },
+    {
+      "name": "Dobby",
+      "imageUrl": "https://www.goodmews.org/wp-content/uploads/candy-corn-oct22-thuumbnail.jpg",
+      "ageRangeId": 1,
+      "furPatternId": 4,
+      "hogwartHouseId": 3,
+      "dob": "Oct. 1, 2022",
+      "description": "Are you looking for a purring machine? Look no further. The moment Dobby greets you it will be with purrs and she wont be out of sight for long. She’ll run and find something to entertain herself but be back just as soon as you call for her. She's a great kitty all around!\n",
+      "fvrcpVaccine1": "Nov. 7, 2022",
+      "fvrcpVaccine2": "N/A",
+      "fvrcpVaccine3": "N/A",
+      "felvVaccine": "N/A",
+      "rabies": "N/A",
+      "spayedNeutered": "No, but we can help you schedule that appointment.",
+      "fosterParentId": 4,
+      "id": 16
     }
   ],
   "adoptedFosters": [
